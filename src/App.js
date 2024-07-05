@@ -17,7 +17,7 @@ function App() {
       headers: {
         accept: "application/json",
         Authorization:
-          "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJiYWM3NGE4ZTQxNjA4NDBjZDc4YWEyZDNkNTYyMWFmNSIsIm5iZiI6MTcxOTQ5MzcwMy40MzY4MjYsInN1YiI6IjY2MzVlYmFkOTU5MGUzMDEyY2JjMGJjYSIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.UDkECQLIWQy6y6AZ9wmyvSgqnEOTWb-m59VANh5N5-g",
+          "Replace with your Authorization token",
       },
     };
     if (searchText) {
